@@ -2,7 +2,7 @@
 [![GitHub release][release-img]][release] 
 [![License][license-img]][license] 
 [![Go version][shield-go-version]][go-version] 
-![Stars](https://img.shields.io/github/stars/cyberark/spooffe) 
+![Stars](https://img.shields.io/github/stars/PaloAltoNetworks/spooffe) 
 ![Downloads][download] 
 
 
@@ -325,16 +325,15 @@ This tool is provided for **educational and authorized security testing purposes
 
 
 ## Share Your Thoughts And Feedback
-For more comments, suggestions or questions, you can contact Eviatar Gerzi ([@g3rzi](https://twitter.com/g3rzi)) from CyberArk Labs.
-You can find more projects developed by us in https://github.com/cyberark/.  
+For more comments, suggestions or questions, you can contact Eviatar Gerzi ([@g3rzi](https://twitter.com/g3rzi)) from Unit 42.
 
-[release-img]: https://img.shields.io/github/release/cyberark/spooffe.svg
-[release]: https://github.com/cyberark/spooffe/releases
+[release-img]: https://img.shields.io/github/release/PaloAltoNetworks/spooffe.svg
+[release]: https://github.com/PaloAltoNetworks/spooffe/releases
 
-[license-img]: https://img.shields.io/github/license/cyberark/spooffe.svg
-[license]: https://github.com/cyberark/spooffe/blob/master/LICENSE
+[license-img]: https://img.shields.io/github/license/PaloAltoNetworks/spooffe.svg
+[license]: https://github.com/PaloAltoNetworks/spooffe/blob/master/LICENSE
 
-[shield-go-version]: https://img.shields.io/github/go-mod/go-version/cyberark/spooffe
-[go-version]: https://github.com/cyberark/spooffe/blob/master/go.mod
+[shield-go-version]: https://img.shields.io/github/go-mod/go-version/PaloAltoNetworks/spooffe
+[go-version]: https://github.com/PaloAltoNetworks/spooffe/blob/master/go.mod
 
-[download]: https://img.shields.io/github/downloads/cyberark/spooffe/total?logo=github
+[download]: https://img.shields.io/github/downloads/PaloAltoNetworks/spooffe/total?logo=github
