@@ -1,0 +1,13 @@
+# Binary
+spooffe
+*.exe
+
+# Output directory - all generated/extracted data
+output/
+
+# Backup files
+*.bak
+
+# Go build artifacts
+*.test
+*.prof
