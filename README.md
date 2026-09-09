@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/go-1.21%2B-blue?style=for-the-badge&logo=go" />
 </p>
 
-<img align="right" width="358" height="374" alt="spooffe_logo" src="https://github.com/user-attachments/assets/0e06934e-c01a-4d92-a180-5c64d1410f4f" />
+<img align="right" width="358" height="374" alt="spooffe_logo" src="https://github.com/user-attachments/assets/0e06934e-c01a-4d92-a180-5c64d1410f4f"/>
 
 **Spooffe** is a security research and validation utility designed to evaluate the resilience of SPIRE deployments within Kubernetes environments.
 
