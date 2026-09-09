@@ -1,14 +1,12 @@
 
-[![GitHub release][release-img]][release] 
-[![License][license-img]][license] 
-[![Go version][shield-go-version]][go-version] 
-![Stars](https://img.shields.io/github/stars/PaloAltoNetworks/spooffe) 
-![Downloads][download] 
 
+<p align="center">
+  <img src="https://img.shields.io/github/license/PaloAltoNetworks/spooffe?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/go-1.21%2B-blue?style=for-the-badge&logo=go" />
+</p>
 
-<img  align="right" width="300" height="300" alt="spooffe_logo" src="https://github.com/user-attachments/assets/c8b08b86-b257-4da6-a4c0-324d50b8099d" />
+<img align="right" width="358" height="374" alt="spooffe_logo" src="https://github.com/user-attachments/assets/0e06934e-c01a-4d92-a180-5c64d1410f4f" />
 
- 
 **Spooffe** is a security research and validation utility designed to evaluate the resilience of SPIRE deployments within Kubernetes environments.
 
 It simulates advanced **post-exploitation** scenarios that require administrative access to a Kubernetes node. Its core capabilities include:
