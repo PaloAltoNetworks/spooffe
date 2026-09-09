@@ -51,7 +51,7 @@ It simulates advanced **post-exploitation** scenarios that require administrativ
 
 ```bash
 # Clone the repository
-git clone https://github.com/cyberark/spooffe.git
+git clone https://github.com/PaloAltoNetworks/spooffe.git
 cd spooffe
 
 # Build with make
