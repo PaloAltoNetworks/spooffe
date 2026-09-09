@@ -9,9 +9,9 @@
 <img  align="right" width="300" height="300" alt="spooffe_logo" src="https://github.com/user-attachments/assets/c8b08b86-b257-4da6-a4c0-324d50b8099d" />
 
  
-**Spooffe** is a security research and penetration testing tool that demonstrates multiple attack techniques against SPIRE deployments in Kubernetes environments.
+**Spooffe** is a security research and validation utility designed to evaluate the resilience of SPIRE deployments within Kubernetes environments.
 
-This is a **post-exploitation technique** that requires prior access to a Kubernetes node. The tool supports:
+It simulates advanced **post-exploitation** scenarios that require administrative access to a Kubernetes node. Its core capabilities include:
 
 - **Workload Impersonation (Cgroup Spoofing)**: SPIRE agents attest workloads by inspecting their cgroup paths. Spooffe exploits this by creating fake cgroup paths that mimic legitimate containers, allowing extraction of their identity credentials (JWT and X.509 SVIDs).
 
