@@ -316,7 +316,7 @@ Spooffe creates cgroup paths matching Kubernetes patterns:
 
 ## License  
 
-Copyright (c) 2026 CyberArk Software Ltd. All rights reserved  
+Copyright (c) 2026 Palo Alto Networks. All rights reserved  
 This repository is licensed under <COMPLETE> - see LICENSE for more details.
 
 ## Disclaimer
